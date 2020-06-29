@@ -1,0 +1,28 @@
+{
+  "includeTerms": [
+    "influenza vaccination"
+  ],
+  "excludeTerms": [
+    "no consent",
+    "invitation",
+    "invite",
+    "declined",
+    "did not attend",
+    "contraindicated",
+    "not indicated",
+    "education",
+    "high priority for",
+    "history of",
+    "indication for",
+    "encephalitis"
+  ],
+  "terminology": "Readv2",
+  "createdBy": {
+    "name": "Richard Dodd (dodj)",
+    "email": "richard.o.dodd@gmail.com"
+  },
+  "name": "Influenza vaccination",
+  "description": "A term set for detecting administration of an influenza vaccination.",
+  "createdOn": "2020-06-29T14:32:27.806Z",
+  "lastUpdated": "2020-06-29T14:32:27.806Z"
+}
