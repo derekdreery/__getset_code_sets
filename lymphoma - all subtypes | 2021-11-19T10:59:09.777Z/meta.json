@@ -17,7 +17,10 @@
     "lymphogranuloma*malignant",
     "primary cutaneous cd30-positive t-cell proliferations"
   ],
-  "excludeTerms": [],
+  "excludeTerms": [
+    "fh",
+    "suspected"
+  ],
   "terminology": "Readv2",
   "version": "v20160401",
   "createdBy": {
@@ -25,7 +28,7 @@
     "email": "richard.o.dodd@gmail.com"
   },
   "name": "lymphoma - all subtypes",
-  "description": "",
-  "createdOn": "2021-11-19T10:59:09.212Z",
-  "lastUpdated": "2021-11-19T10:59:09.212Z"
+  "description": "Initial commit of code set",
+  "createdOn": "2021-11-19T10:59:09.777Z",
+  "lastUpdated": "2021-11-19T11:20:53.860Z"
 }
