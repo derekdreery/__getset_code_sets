@@ -1,0 +1,31 @@
+{
+  "includeTerms": [
+    "hodgkin",
+    "lymphoma*",
+    "brill*symmers",
+    "reticulosarcoma",
+    "reticulolymphosarcoma",
+    "lymphosarcoma",
+    "malignant immunoproliferative small intestinal disease",
+    "maltoma",
+    "malignant reticulosis",
+    "lymphoblastoma",
+    "germinoblastoma",
+    "germinoblastic",
+    "reticulum cell sarcoma",
+    "malignant reticuloendotheliosis",
+    "lymphogranuloma*malignant",
+    "primary cutaneous cd30-positive t-cell proliferations"
+  ],
+  "excludeTerms": [],
+  "terminology": "Readv2",
+  "version": "v20160401",
+  "createdBy": {
+    "name": "Richard Dodd (dodj)",
+    "email": "richard.o.dodd@gmail.com"
+  },
+  "name": "lymphoma - all subtypes",
+  "description": "",
+  "createdOn": "2021-11-19T10:59:09.212Z",
+  "lastUpdated": "2021-11-19T10:59:09.212Z"
+}
