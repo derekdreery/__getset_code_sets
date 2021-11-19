@@ -19,7 +19,9 @@
   ],
   "excludeTerms": [
     "fh",
-    "suspected"
+    "suspected",
+    "histiocytosis",
+    "haematopoietic neoplasm"
   ],
   "terminology": "Readv2",
   "version": "v20160401",
@@ -30,5 +32,5 @@
   "name": "lymphoma - all subtypes",
   "description": "Initial commit of code set",
   "createdOn": "2021-11-19T10:59:09.777Z",
-  "lastUpdated": "2021-11-19T11:20:53.860Z"
+  "lastUpdated": "2021-11-19T11:38:37.514Z"
 }
