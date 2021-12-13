@@ -1,0 +1,28 @@
+{
+  "includeTerms": [
+    "temazepam",
+    "euhypnos",
+    "normison"
+  ],
+  "excludeTerms": [
+    "serum",
+    "plasma",
+    "urine",
+    "overdose",
+    "accidental",
+    "adverse",
+    "level",
+    "anaesthesia",
+    "poisoning"
+  ],
+  "terminology": "Readv2",
+  "version": "v20160401",
+  "createdBy": {
+    "name": "Richard Dodd (dodj)",
+    "email": "richard.o.dodd@gmail.com"
+  },
+  "name": "Temazepam",
+  "description": "Any record of prescription of Temazepam. Excludes serum levels and overdose/poisoning.",
+  "createdOn": "2021-12-13T14:02:41.009Z",
+  "lastUpdated": "2021-12-13T14:02:41.009Z"
+}
