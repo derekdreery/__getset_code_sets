@@ -1,0 +1,38 @@
+{
+  "includeTerms": [
+    "mammogram",
+    "breast screening",
+    "breast screen",
+    "thermography breast",
+    "mammography",
+    "soft tissue x-ray breast"
+  ],
+  "excludeTerms": [
+    "never had",
+    "not done",
+    "disclaimer",
+    "offered",
+    "declined",
+    "incomplete",
+    "advice given",
+    "did not attend",
+    "requested",
+    "non-attender",
+    "deleted",
+    "patient breast aware",
+    "examines own breasts",
+    "referral",
+    "call",
+    "not attended"
+  ],
+  "terminology": "SNOMED CT",
+  "version": "uk_sct2cl_29.3.0_20200610000001",
+  "createdBy": {
+    "name": "Richard Dodd (dodj)",
+    "email": "richard.o.dodd@gmail.com"
+  },
+  "name": "breast mammography or thermography",
+  "description": "Used to determine when a person had screening for breast cancer.",
+  "createdOn": "2023-02-16T22:04:41.696Z",
+  "lastUpdated": "2023-02-16T22:04:41.696Z"
+}
